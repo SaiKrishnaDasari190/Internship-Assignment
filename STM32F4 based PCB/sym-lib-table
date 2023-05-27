@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "New_Library")(type "KiCad")(uri "${KIPRJMOD}/STM32F4 based PCB-backups/New_Library.kicad_sym")(options "")(descr ""))
+)
